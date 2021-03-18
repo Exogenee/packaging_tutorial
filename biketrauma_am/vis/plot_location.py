@@ -10,3 +10,4 @@ def plot_location(gd):
 
   fr_chart.render_in_browser()
   # fr_chart.render_to_file('./chart.svg')  # Write the chart in the specified file
+
